@@ -43,7 +43,7 @@ sarmad/
 | بوابة البلاغات | http://localhost:8000/reports |
 | واجهة التحليل | http://localhost:8000 |
 
-## ⚙️ API Endpoints
+## API Endpoints
 
 ### Sarmad (port 8000)
 - `GET /api/status` - حالة النظام
@@ -58,7 +58,7 @@ sarmad/
 - `GET /api/v2/trends` - الترندات
 - `GET /api/v2/data/export` - تصدير البيانات
 
-## 📋 المتطلبات
+## المتطلبات
 
 ```
 python >= 3.9
